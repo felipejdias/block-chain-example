@@ -41,6 +41,4 @@ class BlockChain {
 
         return true
     }
-
-    fun mineBlock(difi)
 }
